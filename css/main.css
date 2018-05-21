@@ -127,14 +127,14 @@ object {
 #charette img {
     width: 500px;
     transform: rotate(270deg);
-    padding-left: 20vw;
+    padding-left: 10vw;
 }
 #kea_presentation iframe {
     width: 700px;
     height: 400px;
 }
 #link_github a {
-    text-decoration: underline;;
+    text-decoration: underline;
     color: black;
     font-size: 2em;
 
