@@ -133,3 +133,9 @@ object {
     width: 700px;
     height: 400px;
 }
+#link_github a {
+    text-decoration: underline;;
+    color: black;
+    font-size: 2em;
+
+}
